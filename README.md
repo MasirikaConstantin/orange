@@ -361,4 +361,4 @@ public class Buetooth extends AppCompatActivity {
 
 Ma capture
 
-![Logo]("Capture d’écran du 2024-06-26 15-23-00.png")
+![Capture d’écran du 2024-06-26 15-23-00](Capture%20d%E2%80%99%C3%A9cran%20du%202024-06-26%2015-23-00.png)
