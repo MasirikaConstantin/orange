@@ -358,3 +358,7 @@ public class Buetooth extends AppCompatActivity {
 - **BroadcastReceiver** : `receiver` est enregistré pour détecter les périphériques Bluetooth découverts.
 - **Gestion des Permissions** : `checkLocationPermission()` est utilisé pour vérifier et demander la permission `ACCESS_FINE_LOCATION` nécessaire pour la découverte Bluetooth.
 - **Démarrage de la Découverte Bluetooth** : `startBluetoothDiscovery()` est appelé lorsque l'utilisateur clique sur le bouton `discoverButton` ou lorsque la permission `ACCESS_FINE_LOCATION` est accordée.
+
+Ma capture
+
+![Logo]("Capture d’écran du 2024-06-26 15-23-00.png")
